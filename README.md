@@ -1,6 +1,10 @@
 # srec-crc
 Install a CRC into a .srec format file, honored by the KBoot 2.0 Bootloader Protocol
 
+## Prerequisites
+
+You will need a copy of [python](https://www.python.org/downloads/) and [SRecord 1.64](http://srecord.sourceforge.net/).
+
 ## Typical usage:
 To install a CRC into the Bootloader Configuration (BCA) of a .srec format file:
 
